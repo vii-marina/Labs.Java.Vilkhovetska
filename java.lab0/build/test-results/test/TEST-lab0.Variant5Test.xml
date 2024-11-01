@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant5Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-11-01T13:01:35" hostname="WIN-9VAN3G5D1L9" time="0.084">
+  <properties/>
+  <testcase name="testUnusedSegmentLength()" classname="lab0.Variant5Test" time="0.03"/>
+  <testcase name="testFindPowerOfTwoExponent()" classname="lab0.Variant5Test" time="0.002"/>
+  <testcase name="testPerformOperation()" classname="lab0.Variant5Test" time="0.004"/>
+  <testcase name="testCheckInequalities()" classname="lab0.Variant5Test" time="0.008"/>
+  <testcase name="testFibonacciSequence()" classname="lab0.Variant5Test" time="0.004"/>
+  <testcase name="testCountPositivesAndNegatives()" classname="lab0.Variant5Test" time="0.002"/>
+  <testcase name="testCandyCost()" classname="lab0.Variant5Test" time="0.004"/>
+  <testcase name="testCreateArithmeticProgressionMatrix()" classname="lab0.Variant5Test" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
